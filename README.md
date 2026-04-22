@@ -9,12 +9,12 @@ Currently @ Newton School of Technology, shipping async services, LLM pipelines,
 
 - 🧠 **[FinSight](https://github.com/asmitk991/FinSight)** — AI finance agent with RAG over pgvector, async ingestion, and behavioral spending reports
 - ✅ **[AI Task Manager](https://github.com/asmitk991/Ai-task-manager)** — LLM pipeline that converts natural language into structured tasks via Gemini + Pydantic
-- ✍️ **[AIGEN](https://github.com/asmitk991/aigen)** — full-stack AI content generator with dynamic prompt engineering and model fallback strategy
+- ✍️ **[AIGEN](https://github.com/asmitk991/aigen)** — Full-stack AI content generator with dynamic prompt engineering and model fallback strategy
 
 ---
 
-### stack
-Languages     Python · JavaScript · SQL
+### Stack
+**Languages**     Python · JavaScript · SQL
 Backend       FastAPI · Flask · Node.js · Express
 Databases     PostgreSQL · Supabase (pgvector) · MySQL
 AI/ML         Gemini API · Claude API · RAG · LLM Agents · Embedding Search
