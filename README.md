@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey, I'm Asmit 👋
 
-<!--
-**asmitk991/asmitk991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & AI Engineer** — I build things that actually work in production.  
+Currently @ Newton School of Technology, shipping async services, LLM pipelines, and RAG systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what i'm working on
+
+- 🧠 **[FinSight](https://github.com/asmitk991/FinSight)** — AI finance agent with RAG over pgvector, async ingestion, and behavioral spending reports
+- ✅ **[AI Task Manager](https://github.com/asmitk991/Ai-task-manager)** — LLM pipeline that converts natural language into structured tasks via Gemini + Pydantic
+- ✍️ **[AIGEN](https://github.com/asmitk991/aigen)** — full-stack AI content generator with dynamic prompt engineering and model fallback strategy
+
+---
+
+### stack
+Languages     Python · JavaScript · SQL
+Backend       FastAPI · Flask · Node.js · Express
+Databases     PostgreSQL · Supabase (pgvector) · MySQL
+AI/ML         Gemini API · Claude API · RAG · LLM Agents · Embedding Search
+Async/Infra   Celery · Redis · Docker · Docker Compose
+Frontend      React · Vue.js · Vite · Tailwind
+
+---
+
+### experience
+
+🏢 **Backend Developer Intern @ RenewBuy** *(Jan 2025 – Jul 2025)*  
+Built production Python services, CRUD APIs, and async Celery/Redis pipelines handling real traffic across internal teams.
+
+---
+
+### github stats
+
+![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmitk991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmitk991&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmitk991)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:asmit.k23csai@nst.rishihood.edu.in)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/asmitk991)
+
+---
+
+*AI-first by default. Stay on the bug until it's fixed.*
