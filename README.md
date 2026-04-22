@@ -1,11 +1,11 @@
 # Hey, I'm Asmit 👋
 
-**Backend & AI Engineer** — I build things that actually work in production.  
+**Backend & AI Engineer** — I'm a third year Btech student, I build things that actually work in production.  
 Currently @ Newton School of Technology, shipping async services, LLM pipelines, and RAG systems.
 
 ---
 
-### what i'm working on
+### What i'm working on
 
 - 🧠 **[FinSight](https://github.com/asmitk991/FinSight)** — AI finance agent with RAG over pgvector, async ingestion, and behavioral spending reports
 - ✅ **[AI Task Manager](https://github.com/asmitk991/Ai-task-manager)** — LLM pipeline that converts natural language into structured tasks via Gemini + Pydantic
@@ -35,12 +35,12 @@ Built production Python services, CRUD APIs, and async Celery/Redis pipelines ha
 
 ### Github stats
 
-![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmitk991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmitk991&layout=compact&theme=tokyonight&hide_border=true)
+![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmitk991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmitk991&layout=compact&theme=tokyonight&hide_border=true&card_width=445))
 
 ---
 
-### Connect
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-kumar-40b201288/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:asmit.k23csai@nst.rishihood.edu.in)
