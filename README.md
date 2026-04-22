@@ -14,34 +14,37 @@ Currently @ Newton School of Technology, shipping async services, LLM pipelines,
 ---
 
 ### Stack
-**Languages**     Python · JavaScript · SQL
-Backend       FastAPI · Flask · Node.js · Express
-Databases     PostgreSQL · Supabase (pgvector) · MySQL
-AI/ML         Gemini API · Claude API · RAG · LLM Agents · Embedding Search
-Async/Infra   Celery · Redis · Docker · Docker Compose
-Frontend      React · Vue.js · Vite · Tailwind
+
+| | |
+|---|---|
+| **Languages** | Python · JavaScript · SQL |
+| **Backend** | FastAPI · Flask · Node.js · Express |
+| **Databases** | PostgreSQL · Supabase (pgvector) · MySQL |
+| **AI/ML** | Gemini API · Claude API · RAG · LLM Agents · Embedding Search |
+| **Async/Infra** | Celery · Redis · Docker · Docker Compose |
+| **Frontend** | React · Vue.js · Vite · Tailwind |
 
 ---
 
-### experience
+### Experience
 
 🏢 **Backend Developer Intern @ RenewBuy** *(Jan 2025 – Jul 2025)*  
 Built production Python services, CRUD APIs, and async Celery/Redis pipelines handling real traffic across internal teams.
 
 ---
 
-### github stats
+### Github stats
 
 ![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmitk991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmitk991&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### connect
+### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmitk991)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-kumar-40b201288/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:asmit.k23csai@nst.rishihood.edu.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/asmitk991)
+
 
 ---
 
