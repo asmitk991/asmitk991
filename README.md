@@ -36,7 +36,7 @@ Built production Python services, CRUD APIs, and async Celery/Redis pipelines ha
 ### Github stats
 
 ![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmitk991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmitk991&layout=compact&theme=tokyonight&hide_border=true&card_width=445&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmitk991&theme=tokyonight&hide_border=true&layout=pie)
 ---
 
 ### Connect with me
